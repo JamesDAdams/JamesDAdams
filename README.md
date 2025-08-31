@@ -5,21 +5,14 @@ Welcome to my GitHub page!
 ## About
 
 This repository contains my projects, scripts, and open source contributions. My main focus areas are:
-- Web development
+- Web/mobile development
 - Automation
 - Linux scripts
 - DevOps tools
 
-## Main Projects
+## Current Projects
 
-- **ProjectName1**: Brief description of the project.
-- **ProjectName2**: Brief description of the project.
-
-## Contact
-
-- [LinkedIn](https://www.linkedin.com/in/jamesdadams)
-- [Twitter](https://twitter.com/jamesdadams)
-- Email: jamesdadams@example.com
+- **Scrum-Poker**: A website for scrum poker accessible here -> https://scrum.jamestech.fr
 
 ---
 
