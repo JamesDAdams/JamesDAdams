@@ -1,26 +1,26 @@
 # JamesDAdams
 
-Bienvenue sur ma page GitHub !
+Welcome to my GitHub page!
 
-## À propos
+## About
 
-Ce dépôt contient mes projets, scripts et contributions open source. Je travaille principalement sur :
-- Développement web
-- Automatisation
-- Scripts Linux
-- Outils DevOps
+This repository contains my projects, scripts, and open source contributions. My main focus areas are:
+- Web development
+- Automation
+- Linux scripts
+- DevOps tools
 
-## Projets principaux
+## Main Projects
 
-- **NomDuProjet1** : Description rapide du projet.
-- **NomDuProjet2** : Description rapide du projet.
+- **ProjectName1**: Brief description of the project.
+- **ProjectName2**: Brief description of the project.
 
-## Me contacter
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/jamesdadams)
 - [Twitter](https://twitter.com/jamesdadams)
-- Email : jamesdadams@example.com
+- Email: jamesdadams@example.com
 
 ---
 
-N’hésitez pas à explorer mes dépôts et à contribuer !
+Feel free to explore my repositories and contribute!
