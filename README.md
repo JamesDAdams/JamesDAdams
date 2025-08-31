@@ -1,16 +1,26 @@
-## Hi there 👋
+# JamesDAdams
 
-<!--
-**JamesDAdams/JamesDAdams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur ma page GitHub !
 
-Here are some ideas to get you started:
+## À propos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ce dépôt contient mes projets, scripts et contributions open source. Je travaille principalement sur :
+- Développement web
+- Automatisation
+- Scripts Linux
+- Outils DevOps
+
+## Projets principaux
+
+- **NomDuProjet1** : Description rapide du projet.
+- **NomDuProjet2** : Description rapide du projet.
+
+## Me contacter
+
+- [LinkedIn](https://www.linkedin.com/in/jamesdadams)
+- [Twitter](https://twitter.com/jamesdadams)
+- Email : jamesdadams@example.com
+
+---
+
+N’hésitez pas à explorer mes dépôts et à contribuer !
