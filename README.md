@@ -13,6 +13,7 @@ This repository contains my projects, scripts, and open source contributions. My
 ## Current Projects
 
 - **[Scrum-Poker](https://scrum.jamestech.fr)**: A website for scrum poker
+- **[backend-express-template](https://github.com/JamesDAdams/backend-express-template)**: A template backend with Express, Prisma, Bun, JWT, TS, Swagger, S3, Email, Docker...
 - **[n8n-nodes-get-chapter-royalroad-in-epub](https://github.com/JamesDAdams/n8n-nodes-download-chapter-royalroad-in-epub)**: A N8N node for download book chapter from royalroad and convert html to epub file
 ---
 
