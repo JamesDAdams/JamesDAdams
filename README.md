@@ -14,6 +14,7 @@ This repository contains my projects, scripts, and open source contributions. My
 
 - **[Scrum-Poker](https://scrum.jamestech.fr)**: A website for scrum poker
 - **[backend-express-template](https://github.com/JamesDAdams/backend-express-template)**: A template backend with Express, Prisma, Bun, JWT, TS, Swagger, S3, Email, Docker...
+- **[cloudflare-worker-error-page](https://github.com/JamesDAdams/cloudflare-worker-error-page)**: Custom error page using a Cloudflare Worker. An an option for enable maintenance mod, add a banner to spacific or all domain and show a banner when your LTE backup is active
 - **[n8n-nodes-get-chapter-royalroad-in-epub](https://github.com/JamesDAdams/n8n-nodes-download-chapter-royalroad-in-epub)**: A N8N node for download book chapter from royalroad and convert html to epub file
 ---
 
