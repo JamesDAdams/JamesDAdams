@@ -12,7 +12,7 @@ This repository contains my projects, scripts, and open source contributions. My
 
 ## Current Projects
 
-- **Scrum-Poker**: A website for scrum poker accessible here -> https://scrum.jamestech.fr
+- **[Scrum-Poker](https://scrum.jamestech.fr)**: A website for scrum poker accessible here -> 
 - **n8n-nodes-get-chapter-royalroad-in-epub**: A N8N node for download book chapter from royalroad and convert html to epub file -> https://github.com/JamesDAdams/n8n-nodes-download-chapter-royalroad-in-epub
 ---
 
